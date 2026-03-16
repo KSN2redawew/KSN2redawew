@@ -7,9 +7,10 @@ def __init__(self):
         self.location   = "Russia"
         self.device     = "Infinix Note 30"
         self.recovery   = "TWRP,OFOX,PBRP"
-        self.project    = "InfinityX - other"
+        self.rom    = "InfinityX - other"
         self.expertise  = "Kernel Android", "GSI Builds"
         self.telegram   = "@KSN522"
+        self.project   = "GoreSU"
 
     def get_status(self):
         return f"Building for Android Community..."
