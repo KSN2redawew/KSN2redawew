@@ -9,7 +9,7 @@
 [![Zyrexen](https://img.shields.io/badge/Zyrexen-6e7681?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zyrexen)
 [![vildangil](https://img.shields.io/badge/vildangil-6e7681?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vildangil)
 [![Andreyka445](https://img.shields.io/badge/Andreyka445-6e7681?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Andreyka445)
-[![Kolan1706](https://img.shields.io/badge/Kolan1706-6e7681?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kolan1706)
+[![Kolan1706](https://img.shields.io/badge/Kolan1706-6e7681?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/Chillax1143])
 
 <p></p>
 
